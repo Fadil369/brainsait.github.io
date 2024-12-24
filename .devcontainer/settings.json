@@ -1,0 +1,5 @@
+{
+    "codeQL.telemetry.enableTelemetry": true,
+    "parallels-desktop.extension.path": "/Users/fadil369/.parallels-desktop-vscode",
+    "parallels-desktop.git.path": "/opt/anaconda3/bin/git"
+}

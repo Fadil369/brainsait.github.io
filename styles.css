@@ -3,12 +3,13 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #f4f4f4;
+    background-color: #121212;
+    color: #ffffff;
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #1c1c1c;
+    color: #ffffff;
     padding: 1rem 0;
 }
 
@@ -34,7 +35,7 @@ nav {
 }
 
 .nav-links a {
-    color: #fff;
+    color: #ffffff;
     text-decoration: none;
     font-weight: 400;
 }
@@ -46,7 +47,7 @@ nav {
     align-items: center;
     justify-content: center;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
 }
 
 .hero-content {
@@ -55,8 +56,8 @@ nav {
 
 .cta-button {
     padding: 1rem 2rem;
-    background: #007BFF;
-    color: #fff;
+    background: #FF5722;
+    color: #ffffff;
     text-decoration: none;
     margin-top: 2rem;
     display: inline-block;
@@ -66,19 +67,19 @@ nav {
 
 .about-section, .services-section, .contact-section {
     padding: 4rem 0;
-    background-color: #fff;
+    background-color: #1c1c1c;
 }
 
 .service-item {
-    background: #eaeaea;
+    background: #333333;
     padding: 2rem;
     margin-bottom: 1rem;
     border-radius: 8px;
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #1c1c1c;
+    color: #ffffff;
     padding: 2rem 0;
     text-align: center;
 }
@@ -95,6 +96,6 @@ footer {
 }
 
 .social-links a {
-    color: #fff;
+    color: #ffffff;
     text-decoration: none;
 }
